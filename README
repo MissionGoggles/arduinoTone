@@ -1,0 +1,1 @@
+This Tone Matrix patch uses Marco Donnarumma's trixtone~ patch as the fundamental tone matrix I have expanded this matrix so that it accepts arduino serial data and inputs it in the trixtone~ matrix.
